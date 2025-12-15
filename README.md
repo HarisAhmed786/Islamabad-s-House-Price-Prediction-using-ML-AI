@@ -71,22 +71,22 @@ The following plots are included:
 # Visualizations
 
 ## Price vs Area
-![Price vs Area](plots/price_vs_area.png)
+![Price vs Area](plots./price_vs_area.png)
 
 ## Price vs Bathrooms
-![Price vs Bathrooms](plots/price_vs_bathrooms.png)
+![Price vs Bathrooms](plots./price_vs_bathrooms.png)
 
 ## Linear Regression Line
-![Linear Regression Line](plots/linear_regression_line.png)
+![Linear Regression Line](plots./linear_regression_line.png)
 
 ## Predicted Price
-![Predicted Price](plots/predicted_price.png)
+![Predicted Price](plots./predicted_price.png)
 
 ## Price vs Rooms
-![Price vs Rooms](plots/price_vs_rooms.png)
+![Price vs Rooms](plots./price_vs_rooms.png)
 
 ## Price vs Per Sqft
-![Price vs Per Sqft](plots/price_vs_per_sqft.png)
+![Price vs Per Sqft](plots./price_vs_per_sqft.png)
 
 All plots are generated using `matplotlib`.
 
