@@ -86,7 +86,7 @@ The following plots are included:
 ![Price vs Rooms](plots./price_vs_rooms.png)
 
 ## Price vs Per Sqft
-![Price vs Per Sqft](plots./price_vs_per_sqft.png)
+![Price vs Per Sqft](plots./price_vs_price_per_sqft.png)
 
 All plots are generated using `matplotlib`.
 
